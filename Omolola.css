@@ -1,0 +1,18 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: azure;
+}
+#slackUserName{
+    font-size: 24px;
+    margin-top: 200px;
+}
+#slackDisplayImage{
+    max-width: 200px;
+    margin: 20px auto;
+}
+#currentDayOfTheWeek, #currentUTCTime, #myTrack{
+    font-size: 18px;
+    margin: 10px 0;
+    font-weight: bold;
+}
